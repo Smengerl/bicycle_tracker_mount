@@ -16,7 +16,7 @@ Very simple mount for inexpensive GPS trackers for installation on a bicycle sad
 | Example 1 | Example 2 | Example 3 |
 | --------- | --------- | --------- |
 | <img src="./print/saddle_1.jpg" width="300" > | <img src="./print/saddle_2.jpg" width="300" > | <img src="./print/saddle_3.jpg" width="300" > |
-">
+
 
 ## 3D-printed parts (selected)
 
