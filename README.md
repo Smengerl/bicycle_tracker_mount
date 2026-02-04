@@ -11,7 +11,7 @@ A GPS tracker mount for installation underneath most common bicycle saddles.
 
 Very simple mount for inexpensive GPS trackers for installation on a bicycle saddle. Consists of only two parts and 4 screws, and can be printed and assembled in just a few minutes.
 
-![Assembly overview](./print/full/full.png)
+![Assembly overview](./print/zsb/full.png)
 
 | Example 1 | Example 2 | Example 3 |
 | --------- | --------- | --------- |
