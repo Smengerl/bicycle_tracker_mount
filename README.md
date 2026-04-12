@@ -6,6 +6,15 @@
 
 A GPS tracker mount for installation underneath most common bicycle saddles.
 
+## Table of Contents
+
+- [Overview](#overview)
+- [3D-printed Parts](#3d-printed-parts)
+- [Standard Hardware](#standard-hardware)
+- [Assembly](#assembly)
+- [Development](#development)
+- [License](#license)
+- [Authors](#authors)
 
 ## Overview
 
@@ -17,8 +26,7 @@ Very simple mount for inexpensive GPS trackers for installation on a bicycle sad
 | --------- | --------- | --------- |
 | <img src="./print/saddle_1.jpg" width="300" > | <img src="./print/saddle_2.jpg" width="300" > | <img src="./print/saddle_3.jpg" width="300" > |
 
-
-## 3D-printed parts (selected)
+## 3D-printed parts
 
 Refer to the `print/stl/` and `print/png/` folders for all printable parts and preview images.
 
@@ -30,7 +38,7 @@ Refer to the `print/stl/` and `print/png/` folders for all printable parts and p
 ## Standard hardware
 
 - 4 M3*8mm cylinder head screws
-- GPS Tracker (https://de.aliexpress.com/item/1005009320220018.html)
+- GPS Tracker (<https://de.aliexpress.com/item/1005009320220018.html>)
 
 ## Assembly
 
@@ -47,7 +55,7 @@ All .stl, .png, and assembly pictures are automatically exported via my Fusion a
 
 ## License
 
-This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) — see `LICENSE.txt` for details or visit http://creativecommons.org/licenses/by-sa/4.0/
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0) — see `LICENSE.txt` for details or visit <http://creativecommons.org/licenses/by-sa/4.0/>
 
 ## Authors
 
