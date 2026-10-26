@@ -4,7 +4,9 @@
 [![3D Printing](https://img.shields.io/badge/3D_printing-STL-green)](#)
 [![License](https://img.shields.io/badge/license-CC%20BY--SA%204.0-blue)](http://creativecommons.org/licenses/by-sa/4.0/)
 
-A GPS tracker mount for installation underneath most common bicycle saddles.
+<img src="./print/saddle_1.jpg" alt="GPS tracker mount installed under a bicycle saddle" width="480" />
+
+A 3D-printed GPS tracker mount for installation underneath most common bicycle saddles.
 
 ## Table of Contents
 
@@ -24,7 +26,7 @@ Very simple mount for inexpensive GPS trackers for installation on a bicycle sad
 
 | Example 1 | Example 2 | Example 3 |
 | --------- | --------- | --------- |
-| <img src="./print/saddle_1.jpg" width="300" > | <img src="./print/saddle_2.jpg" width="300" > | <img src="./print/saddle_3.jpg" width="300" > |
+| <img src="./print/saddle_1.jpg" width="320" alt="Mount under saddle, example 1"> | <img src="./print/saddle_2.jpg" width="320" alt="Mount under saddle, example 2"> | <img src="./print/saddle_3.jpg" width="320" alt="Mount under saddle, example 3"> |
 
 ## 3D-printed parts
 
@@ -38,7 +40,7 @@ Refer to the `print/stl/` and `print/png/` folders for all printable parts and p
 ## Standard hardware
 
 - 4 M3*8mm cylinder head screws
-- GPS Tracker (<https://de.aliexpress.com/item/1005009320220018.html>)
+- Compatible GPS tracker: [the tracker this mount was designed for](https://de.aliexpress.com/item/1005009320220018.html)
 
 ## Assembly
 
